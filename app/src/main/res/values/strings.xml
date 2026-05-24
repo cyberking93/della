@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Della Quick Order</string>
+    <string name="quick_order">Quick Order</string>
+    <string name="quick_order_long">Create a freight (cargo) order</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_my_freights">My freights</string>
+    <string name="menu_search">Search freights</string>
+    <string name="menu_search_long">Search for freights</string>
+    <string name="menu_reload">Reload</string>
+    <string name="menu_open_browser">Open in browser</string>
+    <string name="network_error">No connection or page failed to load</string>
+    <string name="retry">Retry</string>
+    <string name="cannot_open_link">Cannot open this link</string>
+    <string name="cannot_open_picker">Cannot open file picker</string>
+</resources>

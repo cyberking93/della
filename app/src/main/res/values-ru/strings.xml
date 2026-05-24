@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Della Быстрый Заказ</string>
+    <string name="quick_order">Быстрый заказ</string>
+    <string name="quick_order_long">Создать заказ на груз</string>
+    <string name="menu_home">Главная</string>
+    <string name="menu_my_freights">Мои грузы</string>
+    <string name="menu_search">Поиск грузов</string>
+    <string name="menu_search_long">Поиск грузов</string>
+    <string name="menu_reload">Обновить</string>
+    <string name="menu_open_browser">Открыть в браузере</string>
+    <string name="network_error">Нет соединения или страница не загрузилась</string>
+    <string name="retry">Повторить</string>
+    <string name="cannot_open_link">Не удалось открыть ссылку</string>
+    <string name="cannot_open_picker">Не удалось открыть выбор файлов</string>
+</resources>
