@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Della Жылдам Тапсырыс</string>
+    <string name="quick_order">Жылдам тапсырыс</string>
+    <string name="quick_order_long">Жүкке тапсырыс жасау</string>
+    <string name="menu_home">Басты бет</string>
+    <string name="menu_my_freights">Менің жүктерім</string>
+    <string name="menu_search">Жүк іздеу</string>
+    <string name="menu_search_long">Жүк іздеу</string>
+    <string name="menu_reload">Жаңарту</string>
+    <string name="menu_open_browser">Браузерде ашу</string>
+    <string name="network_error">Қосылым жоқ немесе бет жүктелмеді</string>
+    <string name="retry">Қайталау</string>
+    <string name="cannot_open_link">Сілтемені ашу мүмкін болмады</string>
+    <string name="cannot_open_picker">Файл таңдау терезесін ашу мүмкін болмады</string>
+</resources>

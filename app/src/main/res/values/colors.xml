@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="della_primary">#0E63B6</color>
+    <color name="della_primary_dark">#0A4A8A</color>
+    <color name="della_accent">#FFB300</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+</resources>

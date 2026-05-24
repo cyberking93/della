@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="quick_order"
+        android:enabled="true"
+        android:icon="@drawable/ic_add"
+        android:shortcutShortLabel="@string/quick_order"
+        android:shortcutLongLabel="@string/quick_order_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="kz.della.quickorder"
+            android:targetClass="kz.della.quickorder.MainActivity">
+            <extra
+                android:name="kz.della.quickorder.TARGET_URL"
+                android:value="https://mob.della.kz/app/my/freights/create" />
+        </intent>
+        <categories android:name="android.shortcut.conversation" />
+    </shortcut>
+
+    <shortcut
+        android:shortcutId="search_freights"
+        android:enabled="true"
+        android:icon="@drawable/ic_search"
+        android:shortcutShortLabel="@string/menu_search"
+        android:shortcutLongLabel="@string/menu_search_long">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="kz.della.quickorder"
+            android:targetClass="kz.della.quickorder.MainActivity">
+            <extra
+                android:name="kz.della.quickorder.TARGET_URL"
+                android:value="https://mob.della.kz/app/search/freights" />
+        </intent>
+    </shortcut>
+</shortcuts>
